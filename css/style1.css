@@ -1,0 +1,203 @@
+body{
+    background-color: black;
+}
+
+.navbar-text i{
+    color: white !important;
+    font-size:13px !important;
+    
+ 
+}
+.navbar-text{
+    padding-left: 250px !important;
+    color: white;
+}
+.navbar-textt {
+    color: white;
+    margin-left: 30px !important;
+    
+}
+.navbar-textt a {
+    margin-left: 3px !important;
+    
+}
+
+.container-fluid{
+background-color:black !important;
+
+
+}
+.container-fluid a{
+    color: white !important;
+    margin-right: 7px;
+    font-size: 15px;
+}
+   
+.nav-item a{
+    color: white !important;
+
+}
+.nav-item {
+   
+    font-size: 15px !important;
+    }
+
+  .xyz,.dropdown{
+    position:relative;
+    display:inline-block;
+  }  
+.dropdown-menu{
+    display: none;
+    position:absolute;
+    z-index: 1;
+}
+.xyz, .dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-menu {
+    background-color: black!important;
+}
+.dropdown-menu a {
+    background-color: black!important;
+}
+.container-fluid :hover{
+    color:yellow !important;
+}
+h3{
+    color:white;
+    font-size:20px;
+
+}
+hr.style1{
+    border-top:3px solid white;
+    
+}
+
+.card-title{
+    color:white;
+    font-size:16px;
+    
+    
+}
+.cz img{
+    border:2px solid;
+    border-radius: 6%;
+    
+}
+
+.card-title:hover{
+    color: yellow !important;
+}
+.aa h1{
+    color: white;
+    font-size:16px;
+    
+}
+.aa :hover{
+    color: yellow !important;
+}
+.aa a{
+    color:white;
+    
+
+    
+}
+.table li{
+    list-style-type: square;
+    color:white;
+}
+.dd {
+    font-size: 14px;
+    
+    
+}
+.ss{
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    overflow: none;
+}
+.footer-basic{
+    background-color: #151515;
+    
+}
+.list-inline :hover{
+    color:yellow;
+}
+.icon  :hover{
+    color: yellow;
+}
+.footer-basic img{
+    color: white;
+}
+
+
+.icon i{
+    margin-right: 20px;
+    font-size: 15px;
+    
+    color: white !important;
+    
+}
+.icon :hover{
+    color: yellow !important;
+}
+.icon{
+    color: white;
+    margin-left: 20px;
+    
+}
+.footer-basic h1{
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 8%;
+    
+    
+}
+.list-inline-item a{
+    font-size: 12px;
+    text-decoration:none; 
+    color:white;
+    
+    margin-left: 20px;
+
+
+
+}
+
+.icon {
+margin-right: 40%;
+padding-left: 40%;
+}
+.list-inline{
+    padding-left: 15%;
+}
+.copyright{
+   font-size:15px;
+    color:white;
+}
+.list-inline p{
+    padding-left: 26%;
+}
+h1{
+    font-size: 15px;
+    
+    
+}
+#txt{
+    color: white;
+    text-align: center;
+}
+.ff h2{
+    font-size: 30px;
+    
+}
+.ff{
+    color: white;
+    overflow: none;
+}
+.as{
+    color:white;
+    border-right: 1px solid white;
+}
+ 
